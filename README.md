@@ -8,6 +8,7 @@
 - Unity: I've worked with Unity to create projects like [Scuffy Bird](https://toastdev.cc/scuffybird)
 - Discord Bots: Building and improving bot functionality for engaging online communities.
 - Self-learning: Always excited to dive into new languages and frameworks
+- Raspberry Pi Projects: I enjoy integrating hardware into my software projects.
 
 ## 📮 How To Reach Me:
 - Discord: [ToastDev.cc](https://discordapp.com/users/377880600381620226)
